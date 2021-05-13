@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+# My Projects
+* [SkyblockReinvented][https://github.com/theCudster/SkyblockReinvented]
+* [SBUtil (unreleased)][https://github.com/theCudster]
+## My Stats
+[![theCudster's GitHub stats](https://github-readme-stats.vercel.app/api?username=theCudster)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **theCudster/theCudster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
