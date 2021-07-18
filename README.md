@@ -9,7 +9,6 @@
 ## Info
 [![theCudster's GitHub stats](https://github-readme-stats.vercel.app/api?username=theCudster)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theCudster)]()
-[![Join the discord badge](https://img.shields.io/badge/Join%20my%20Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkeYgZrRbN)
 ### Languages
 #### Well-Known
 [![forthebadge](https://img.shields.io/badge/kotlin-7e46fb.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
@@ -31,4 +30,5 @@
 [![forthebadge](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![forthebadge](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 ### Social (WIP)
+  [![Join the discord badge](https://img.shields.io/badge/Join%20my%20Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkeYgZrRbN)
 </div>
