@@ -4,7 +4,6 @@
 ### My Projects
   
 [SkyblockReinvented](https://github.com/theCudster/SkyblockReinvented)<br>
-[SBUtil (unreleased)](https://github.com/theCudster) 
   
 ## Info
 [![theCudster's GitHub stats](https://github-readme-stats.vercel.app/api?username=theCudster)](https://github.com/anuraghazra/github-readme-stats)
