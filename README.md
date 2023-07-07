@@ -1,6 +1,6 @@
 <div align="center">
   
-## theCudster
+## Cuddy Steadman
 ### My Projects
   
 [SkyblockReinvented](https://github.com/theCudster/SkyblockReinvented)<br>
