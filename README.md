@@ -1,13 +1,13 @@
 <div align="center">
   
 ## Cuddy Steadman
-### My Projects
+### Public Projects
   
-[SkyblockReinvented](https://github.com/theCudster/SkyblockReinvented)<br>
+[SkyblockReinvented](https://github.com/cuddysteadman/SkyblockReinvented)<br>
   
 ## Info
-[![theCudster's GitHub stats](https://github-readme-stats.vercel.app/api?username=theCudster)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theCudster)]()
+[![cuddysteadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuddysteadman)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cuddysteadman)]()
 ### Languages
 #### Well-Known
 [![forthebadge](https://img.shields.io/badge/kotlin-7e46fb.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
