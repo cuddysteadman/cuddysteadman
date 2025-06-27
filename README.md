@@ -1,11 +1,8 @@
 ## :wave: Hey there! I'm Cuddy Steadman.
 ### :raising_hand: About Me
+- :b: At Brown University '27 studying Mathematics with a focus in machine learning algorithms and theoretical computing
 - :mortar_board: Graduate from Bangor High School '23
 - :computer: Coded for about 6 years, STEM for much longer
-- :b: At Brown University '27 studying CS and Mathematics
-- :metro: Public transportation enthusiast & advocate
-- :test_tube: Passionate science fair former competitor, now mentor
-- :speaking_head: <img src="https://raw.githubusercontent.com/cuddysteadman/cuddysteadman/main/contact/united-kingdom.png" alt="UK Flag" width="21px"/> L1, <img src="https://raw.githubusercontent.com/cuddysteadman/cuddysteadman/main/contact/france.png" alt="French Flag" width="21px"/> B2, <img src="https://raw.githubusercontent.com/cuddysteadman/cuddysteadman/main/contact/spain.png" alt="Spain Flag" width="21px"/> B1
 - :passport_control: Dual citizen <img src="https://raw.githubusercontent.com/cuddysteadman/cuddysteadman/main/contact/canada.png" alt="Canada Flag" width="21px"/> / <img src="https://raw.githubusercontent.com/cuddysteadman/cuddysteadman/main/contact/united-states.png" alt="US Flag" width="21px"/>
 ### Public Projects
 [Online Schooling Readiness Algorithm](https://github.com/cuddysteadman/thecudster-2020)<br>
